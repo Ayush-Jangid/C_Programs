@@ -1,0 +1,3 @@
+The number is 1500
+I was printed here by using fprintf
+I will not print anything after this

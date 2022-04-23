@@ -1,0 +1,12 @@
+									.....THE MULTIPLICATION TABLE OF 10.....
+
+												10 X 1 is:- 10
+												10 X 2 is:- 20
+												10 X 3 is:- 30
+												10 X 4 is:- 40
+												10 X 5 is:- 50
+												10 X 6 is:- 60
+												10 X 7 is:- 70
+												10 X 8 is:- 80
+												10 X 9 is:- 90
+												10 X 10 is:- 100
